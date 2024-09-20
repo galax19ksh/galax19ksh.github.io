@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Check out my [cv/resume](https://drive.google.com/file/d/1uceQYLfXVAg2vKNlV7QJ7XmSlwWLYW3C/view?usp=sharing).
+Check out my [cv/resume](https://drive.google.com/file/d/16wWACC0yMo5xRvBQ4BDBeXF2sPQfluOQ/view?usp=sharing).
