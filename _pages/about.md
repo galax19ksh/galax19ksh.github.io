@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 Welcome to my homepage
-======
+------
 coming soon!
