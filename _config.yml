@@ -12,7 +12,7 @@ title                    : "Galax Kshetrimayum"
 title_separator          : "-"
 name                     : &name "Galax Kshetrimayum"
 description              : &description "personal description"
-url                      : https://galax19ksh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://galaxx.me # the base hostname & protocol for your site. sibling url: "https:/galax19ksh.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "galax19ksh/galax19ksh.github.io"
 
