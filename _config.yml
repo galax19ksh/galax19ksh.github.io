@@ -123,22 +123,22 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:galax19ksh@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-square-x-twitter"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/galax_ksh"
     - label: "Facebook"
       icon: "fab fa-fw fa-square-facebook"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/galaxksh"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/galax19ksh"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/_galaxx19"
 
 # Site Footer
 footer:
