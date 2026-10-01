@@ -32,6 +32,7 @@ What kind of films does PTA make? About Family and relationships? That does not 
 |||
 | :---: | :---: |
 | ![PTA directing Heather Graham on the set of Boogie nights ](../media/PTAblog/boogie_nights.jpg) | ![Magnolia](../media/PTAblog/magnolia.jpg) |
+| PTA directing Heather Graham on the set of Boogie nights | Magnolia |
 
 
 Paul doesn’t shy away from getting personal with his flawed characters evidently even in the latest ***One Battle After Another (2025)*** where the central father-daughter dynamic between _Leonardo DiCaprio_ and _Chase Infiniti_ (a revelation performance) was heavily inspired by his own real life daughters. The evolution of this fatherhood dynamic can also be charted in ***There Will be Blood (2007)*** where the patriarch exploits his adopted son for his early 20th century capitalist ambitions and in ***The Master (2012)*** that explores the manipulation of a feral traumatized WWII veteran by a charismatic cult leader. The willingness of vulnerability deserves to have an altruistic appeal at least in a grand scheme of things.
