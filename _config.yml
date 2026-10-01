@@ -67,7 +67,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true #false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -145,14 +145,14 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-square-x-twitter"
-      # url:
+      url: "https://twitter.com/galax_ksh"
       # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
     - label: "Facebook"
       icon: "fab fa-fw fa-square-facebook"
-      # url:
+      url: "https://facebook.com/galaxksh"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/galax19ksh"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -161,8 +161,8 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
-  since: "2013"
+      url: "https://instagram.com/_galaxx19"
+  since:
 
 
 # Reading Files
