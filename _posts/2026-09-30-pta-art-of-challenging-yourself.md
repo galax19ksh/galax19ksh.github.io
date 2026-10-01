@@ -18,6 +18,11 @@ One of the most prolific American filmmakers of all time, *Paul Thomas Anderson*
 
 <p align="center"><sub><em>PTA filmography</em></sub></p>
 
+<figure class="align-center">
+  <img src="../media/PTAblog/pta_filmography.png" alt="" width="300">
+  <figcaption align="center">PTA filmography</figcaption>
+</figure> 
+
 Father figure Cinema 
 ======= 
 
