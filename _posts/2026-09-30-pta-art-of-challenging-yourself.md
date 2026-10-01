@@ -8,7 +8,7 @@ tags:
   - essay
 ---
 
-`A retrospective: he is just flexing`
+`A retrospective into versatility`
 
 When you ask someone their favorite ***Paul Thomas Anderson*** film, you would almost never get the same answer. To the point any title from his filmography could be your favorite. And that's also going to change over time like mine has over the years. One person's PTA is *Daniel Day-Lewis* screaming, “*I have abandoned my boy.*” Another would be *Adam Sandler* running through Hawaii in a blue suit. Someone else sees Dirk Diggler dancing in a porn studio, *Philip Seymour Hoffman* trying to recruit a damaged young drifter, or *Joaquin Phoenix* in a groovy 70s Los Angeles neo-noir mystery. And now there is *Leonardo DiCaprio* running around with a terrible gun while trying to protect his daughter.  Yeah, that's PTA!
 
@@ -76,4 +76,4 @@ Okay, very tempting to put some of my favorite shots from his films. Here they a
 
 ![pdl](../media/punch-drunk-love-1999-1519.png){: width="300px" .align-center} <p align="center"><sub><em>A still from Punch-drunk Love (2002)</em></sub></p>
 
-![Licorice Pizza](../media/PTAblog/licorice-pizza-2021-279-19558.jpg){: width="300px" .align-center} <p align="center"><sub><em> A still from Licorice Pizza (2021)</em></sub></p>
+![Licorice Pizza](../media/PTAblog/licorice-pizza-2021-279-19582.jpg){: width="300px" .align-center} <p align="center"><sub><em> A still from Licorice Pizza (2021)</em></sub></p>
