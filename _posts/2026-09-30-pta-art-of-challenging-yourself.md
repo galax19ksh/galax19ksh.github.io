@@ -51,7 +51,7 @@ Distinctly American in his idiosyncratic sensibilities, Paul Thomas Anderson’s
 
 One of the quieter pleasures of Anderson's filmography is watching his creative family evolve alongside his cinematic ambitions. His recurring collaborations with _Philip Seymour Hoffman_, _Philip Baker Hall_, _John C. Reilly_, _Daniel Day-Lewis_, and, more recently, _Joaquin Phoenix_ and _Jonny Greenwood_ (also his cinematographers past and present) lend his filmography a peculiar sense of continuity, almost as though these actors are returning to different chapters of the same sprawling American novel. Yet Anderson is equally willing to step outside this familiar ensemble and discover something entirely new in performers who might not immediately seem like obvious choices for his cinematic universe. *Adam Sandler* in Punch-Drunk Love, Alana Haim in ***Licorice Pizza*** (while casting PS Hoffman’s son _Cooper_ in the alongside her has never been more endearing), and *Chase Infiniti* in **_One Battle After Another_** are instinctively a wonderful display for recognising a particular screen presence and building an entire character around it beyond the comfort of artistic muses. He allows actors the freedom to inhabit their eccentricities without losing sight of the larger composition, whether that means drawing a career-defining dramatic performance from a comedian like Sandler or allowing an established star like Tom Cruise to disappear into an emotionally uncomfortable character. This sense of professional generosity extends to embracing uncertainty in his storytelling approach. Perhaps the most telling example of this trust in the creative process is *One Battle After Another*, which Anderson reportedly began filming without having the complete plot figured out which is rather an audacious proposition for a filmmaker operating at this scale, but perhaps the clearest testament to his Altman-esque collaborative “character over story” approach to filmmaking.
 
-![psh-pta](../media/PTAblog/Philip-Seymour-Hoffman-in-Punch-Drunk-Love.jpg){: width="300px" .align-center} 
+![psh-pta](../media/PTAblog/Philip-Seymour-Hoffman-in-Punch-Drunk-Love.jpg){: width="400px" .align-center} 
 <p align="center"><sub><em> frequent collaborator Philip Seymour Hoffman in Punch-Drunk Love (2002)</em></sub></p>
 
 Talking about endings, what fascinated me with his latest hit OBAA (besides the lustful VistaVision film cinematography) is not its political urgency or the exhilarating car chase sequence, but its unexpectedly optimistic conclusion. For a filmmaker whose earlier works often found their characters trapped in cycles of trauma and spiritual emptiness there is something remarkably tender about ending this particular odyssey with an unabashed display of hope for a better tomorrow. The world has not been repaired, the machinery of oppression remains intact, and the revolution is certainly not over. Yet Willa drives forward, carrying none of the weary cynicism that defined her father's generation. The battles continue, but so does the possibility of something beyond them. It is tempting to read this as the late-career metamorphosis of an artist into metamodernism and its extended self reflective tendencies which is quite common like we have observed with Scorsese’s ***Irishman (2019)*** and ***Killers of the Flower Moon (2023)*** or Michael Haneke’s swan song, ***Happy End (2017)*** or even Tarantino’s ***Once Upon a Time in Hollywood (2019)*** for example. But what’s different about Paul Thomas Anderson’s recent metatextuality is not necessarily concerned with the reflection of his most definitive traits but rather with the inevitable outlook of modern anxiety equipped with a new sincerity aesthetic. Well interestingly PTA has dealt with contemporary era only a few times as in OBAA, _Magnolia_ and _Punch-Drunk love_. One of my criticisms about “great” filmmakers of our generation is their refusal to explore the current digital age we live in, even the contemporary set characters in OBAA are not allowed to use mobiles for the entirety of the film due to the established plot “armour”. Ari Aster’s ***Eddington (2025)*** is the most exciting example (could be a double feature with OBAA) of inspecting current political scenarios with extensive use of mobile screens set against the deeply polarized Covid Era paranoia. I hugely advocate making pieces like this instead of always having to revisit the cinematic past. 
@@ -60,33 +60,33 @@ LA through a sensual lens
 ========
 To watch a Paul Thomas Anderson film is to experience Los Angeles not as an industry backdrop or a cynical collection of noir tropes, but as a living, breathing sensory landscape. This intoxicating and almost physical intimacy of the city is a big reason his films lingers in me extremely well. And you could guess easily that he did grow up in the San Fernando Valley with access to filmmaking instruments owing to his proximity to the industry and his father, a Hollywood showbiz figure himself. The sunny Californian landscape became an impressionistic mosaic of heat, asphalt, and lingering light much to the point that *Magnolia* acts as his love letter to the valley he was born and raised. Similarly in *Boogie Nights* and *Licorice Pizza*, his camera glides across the Valley floor with an ecstatic, kinetic freedom—capturing the warm, grainy texture of 35mm stock, the low hum of traffic under streetlights, and the golden dusk filtering through dusty palm fronds.The air in a PTA film feels heavy with moisture, exhaust, petroleum, and unexpressed longing, instilling a deep sense of nostalgia for a time and place I never existed in.
 
-![Licorice Pizza](../media/PTAblog/licorice-pizza-2021-279-19738.jpg){: width="300px" .align-center}
+![Licorice Pizza](../media/PTAblog/licorice-pizza-2021-279-19738.jpg){: width="400px" .align-center}
 <p align="center"><sub><em> A still from Licorice Pizza (2021)</em></sub></p>
-![pdl](../media/PTAblog/punch-drunk_love2.png){: width="300px" .align-center}
+![pdl](../media/PTAblog/punch-drunk_love2.png){: width="400px" .align-center}
 <p align="center"><sub><em>A still from Punch-drunk Love (2002)</em></sub></p>
 
 
 Even when rendering the sterile interiors of Valley warehouses or suburban strip malls as seen in *Punch-Drunk Love*, Anderson infuses the frame with a striking sensory palette: sudden bursts of saturated light, the fluorescent glare of late-night convenience stores, or the disorienting, rhythmic drone of a carpet warehouse that mirrors a protagonist's internal panic. In *One Battle After Another*, the golden highways and sun-bleached coastal stretches pulse with a rich, tactile warmth, proving that Anderson's eye for location remains unmatched. Or could one forget the psychedelic drug infused photograph of the valley in the hazy *Inherent Vice (2014)*. Through his lens, Los Angeles ceases to be a mere setting; it becomes a romantic, volatile partner in the drama. It is a terrain of endless asphalt and open horizons—a place where broken people run, collide, reinvent themselves, and occasionally, against all odds, manage to find a way back home.
 
 Okay, very tempting to put some of my favorite shots from his films. Here they are:
-![pt](../media/PTAblog/phantom-thread-2017-218-8591.jpg){: width="300px" .align-center} 
-![pt](../media/PTAblog/phantom-thread-2017-218-8640.jpg){: width="300px" .align-center} 
-![pt](../media/PTAblog/phantom-thread-2017-218-8567.jpg){: width="300px" .align-center} 
+![pt](../media/PTAblog/phantom-thread-2017-218-8591.jpg){: width="400px" .align-center} 
+![pt](../media/PTAblog/phantom-thread-2017-218-8640.jpg){: width="400px" .align-center} 
+![pt](../media/PTAblog/phantom-thread-2017-218-8567.jpg){: width="400px" .align-center} 
 <p align="center"><sub><em> stills from Phantom Thread (2017)</em></sub></p>
 
-![tm](../media/PTAblog/the-master-2012-730.jpg){: width="300px" .align-center} 
-![tm](../media/PTAblog/the-master-2012-754.jpg){: width="300px" .align-center} 
-![tm](../media/PTAblog/the-master-2012-734.jpg){: width="300px" .align-center} 
+![tm](../media/PTAblog/the-master-2012-730.jpg){: width="400px" .align-center} 
+![tm](../media/PTAblog/the-master-2012-754.jpg){: width="400px" .align-center} 
+![tm](../media/PTAblog/the-master-2012-734.jpg){: width="400px" .align-center} 
 <p align="center"><sub><em> stills from The Master (2012)</em></sub></p>
 
-![twbb](../media/PTAblog/there-will-be-blood.jpg){: width="300px" .align-center} 
+![twbb](../media/PTAblog/there-will-be-blood.jpg){: width="400px" .align-center} 
 <p align="center"><sub><em> A still from There Will be Blood (2007)</em></sub></p>
 
-![Licorice Pizza](../media/PTAblog/licorice-pizza-2021-279-19701.jpg){: width="300px" .align-center} 
+![Licorice Pizza](../media/PTAblog/licorice-pizza-2021-279-19701.jpg){: width="400px" .align-center} 
 <p align="center"><sub><em> A still from Licorice Pizza (2021)</em></sub></p>
 
-![pdl](../media/PTAblog/punch-drunk-love-1999-1519.png){: width="300px" .align-center} 
+![pdl](../media/PTAblog/punch-drunk-love-1999-1519.png){: width="400px" .align-center} 
 <p align="center"><sub><em>A still from Punch-drunk Love (2002)</em></sub></p>
 
-![Licorice Pizza](../media/PTAblog/licorice-pizza-2021-279-19582.jpg){: width="300px" .align-center} 
+![Licorice Pizza](../media/PTAblog/licorice-pizza-2021-279-19582.jpg){: width="400px" .align-center} 
 <p align="center"><sub><em> A still from Licorice Pizza (2021)</em></sub></p>
