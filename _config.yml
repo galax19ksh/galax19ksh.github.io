@@ -162,7 +162,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/_galaxx19"
-  since: "2013"
+  since:
 
 
 # Reading Files
@@ -326,7 +326,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: # true
       share: true
