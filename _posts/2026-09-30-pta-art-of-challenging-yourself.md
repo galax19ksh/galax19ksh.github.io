@@ -14,7 +14,8 @@ When you ask someone their favorite ***Paul Thomas Anderson*** film, you would a
 
 One of the most prolific American filmmakers of all time, *Paul Thomas Anderson* is a cult in his name (filmbros love to call him PTA) itself having established himself as an auteur maestro who writes and directs deeply personal narratives. This essay is not an attempt to interpret his work but rather a compilation of my thoughts and insights about his filmography that has continued to impress me over the years. This is about something I find very compelling, not just as a filmmaker: how an artist keeps challenging himself at every turn and how that challenge becomes part of the pleasure of watching his craft.
 
-![PTA filmography](../media/PTAblog/pta_filmography.png){: width="300px" .align-center} 
+![PTA filmography](../media/PTAblog/pta_filmography.png){: width="300px" .align-center}
+
 <p align="center"><sub><em>PTA filmography</em></sub></p>
 
 Father figure Cinema 
