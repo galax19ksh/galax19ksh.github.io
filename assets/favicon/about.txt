@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Shafarik
+- Font Author: undefined
+- Font Source: https://fonts.gstatic.com/s/shafarik/v3/RWmLoKaF7PojpZXlW52sbsHKqLkD.ttf
+- Font License: undefined)
