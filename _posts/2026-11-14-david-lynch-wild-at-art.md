@@ -22,7 +22,7 @@ When I stumbled upon the October 1, 1990, issue of Time magazine featuring *Davi
 
 My introduction to *David Lynch* was ***Mulholland Drive (2001)***, which was a must-see in the “greatest mind-blowing movies of all time” lists I devoured during my late teens. The haunting Hollywood dreamscape drenched in uncompromising visual language did not help my visible frustration at the insanely puzzling plot. Looking for clues and motifs throughout to decode came to nothing (what the heck does the blue key even mean?). Clearly no different from the rest of his work, the psychosexual violence of ***Blue Velvet (1986)*** was more repulsive than my palate could handle at that time. Only after enough episodes of ***Twin Peaks (1990)*** and revisits to *Lynch*'s perversely tempting world did my understanding of his cinematic appeal evolve into something more than mere incoherent shock value or a fine case of acquired taste. This came as a revelation for my appreciation of art, especially surrealism, beyond the whole craze of hunting for “Rosetta stones”. Despite having joined the cultural lexicon, the usage of the adjective “Lynchian” never reached artists' work for me, proving a vision so singular that no one has ever come close to imitation or duplication.
 
-![David Lynch by Gérard Rancinan, 2001](../media/David-Lynch-blog\Nasty-Magazine-David-Lynch-008.jpg"){:width="350px" .align-center}
+![David Lynch by Gérard Rancinan, 2001](../media/David-Lynch-blog/Nasty-Magazine-David-Lynch-008.jpg"){:width="350px" .align-center}
 <p align="center"><sub><em>David Lynch by Gérard Rancinan, 2001</em></sub></p>
 
 
