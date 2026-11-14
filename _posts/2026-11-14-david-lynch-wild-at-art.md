@@ -35,7 +35,7 @@ In the documentary ***It’s a Beautiful World (2014)*** by *Richard Beymer* (wh
 <p align="center"><sub><em>Welcome to Twin Peaks</em></sub></p>
 
 ![The *Black Lodge* from *Twin Peaks*](../media/David-Lynch-blog/twin-peaks.jpg){: width="400px" .align-center}
-<p align="center"><sub><em>The Black Lodge from Twin Peaks</em></sub></p>
+<p align="center"><sub><em>The Red Room from Twin Peaks</em></sub></p>
 
 
 Since the beginning of the new millennium and the subsequent release of his final feature, ***Inland Empire (2006)***, an extremely skewed digital avant-garde opus, *Lynch* has drifted into a quieter retirement life, occupying himself with woodwork, experimental painting, and, most interestingly, with the internet through his website and weather reports. I remember, during my COVID-19 isolation, tuning in to his YouTube channel, where he would share a song in his mind, recite daily affirmations, and conduct his daily ritual of “swirling the numbers” to pick a number of the day from a glass jar. The deadpan delivery of daily weather reports from a particular room of his L.A. basement became a delightful comfort. From his weekly “It is a Friday once again!” to quinoa cooking sessions, *David*’s fascination with nature itself in the minute details apparently adds to his larger-than-life persona, which could be the very fundamental engine of his creative ritual. I truly believe his eccentric whimsy isn’t an escape from his art. In fact, I have realized that this oddball, idiosyncratic personality is almost as big a reason for my obsession with him as his body of work.
